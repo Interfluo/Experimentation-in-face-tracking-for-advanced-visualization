@@ -1,0 +1,5 @@
+6/13
+- Laid down some of the groundwork for getting the face location and doing basic operations from this
+- a lot of work need to be done to implement this in ParaView, VTK, or some other visualization tool with the
+  appropriate projection matrices, etc...
+- there is a lot to do, and I am playing it a bit by ear as to where this project will go.
