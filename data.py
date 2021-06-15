@@ -52,6 +52,3 @@ def plot3D(yaw, pitch, wait):
    plt.pause(wait)
    plt.close()
    return 0
-
-
-# voxel3D(15, 10, 1)

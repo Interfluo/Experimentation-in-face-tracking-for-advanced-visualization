@@ -3,3 +3,11 @@
 - a lot of work need to be done to implement this in ParaView, VTK, or some other visualization tool with the
   appropriate projection matrices, etc...
 - there is a lot to do, and I am playing it a bit by ear as to where this project will go.
+
+6/15
+- started implementing pyglet for creating and manipulating the 3d geometry. Still need much more work, but so far I can
+  rotate and translate a basic shape on the screen. This need to be coupled with the face tracking to adjust based on
+  the position of the users head.
+- started exploring imageAI to see if it is possible to accelerate or stabilize face detection with other methods
+- will likely stick to the haar cascade and add some temporal smoothing by averaging over frames (we will see..)
+- good progress so far, but I still have a lot to do.
