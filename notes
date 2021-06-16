@@ -11,3 +11,13 @@
 - started exploring imageAI to see if it is possible to accelerate or stabilize face detection with other methods
 - will likely stick to the haar cascade and add some temporal smoothing by averaging over frames (we will see..)
 - good progress so far, but I still have a lot to do.
+
+6/15.2
+- added a function that imports an ascii formatted stl, gets the vertex data, and creates an edges matrix. This can then
+  be imported into the previously developed pygame code to view an stl file.
+
+TODO:
+    - comment the code (soon)
+    - optimize the performance of the stl reader for bigger cases (future)
+    - add shading (future)
+    - ....
